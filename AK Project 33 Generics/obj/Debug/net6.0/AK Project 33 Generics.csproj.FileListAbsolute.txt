@@ -1,0 +1,15 @@
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\bin\Debug\net6.0\AK Project 33 Generics.exe
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\bin\Debug\net6.0\AK Project 33 Generics.deps.json
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\bin\Debug\net6.0\AK Project 33 Generics.runtimeconfig.json
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\bin\Debug\net6.0\AK Project 33 Generics.dll
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\bin\Debug\net6.0\AK Project 33 Generics.pdb
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\AK Project 33 Generics.csproj.AssemblyReference.cache
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\AK Project 33 Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\AK Project 33 Generics.AssemblyInfoInputs.cache
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\AK Project 33 Generics.AssemblyInfo.cs
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\AK Project 33 Generics.csproj.CoreCompileInputs.cache
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\AK Project 33 Generics.dll
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\refint\AK Project 33 Generics.dll
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\AK Project 33 Generics.pdb
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\AK Project 33 Generics.genruntimeconfig.cache
+C:\Users\Pugalo\Documents\C#\AK Project 33 Generics\AK Project 33 Generics\obj\Debug\net6.0\ref\AK Project 33 Generics.dll
